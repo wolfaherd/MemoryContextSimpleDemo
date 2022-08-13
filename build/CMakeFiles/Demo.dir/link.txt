@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Demo.dir/src/MemoryContext.cpp.o CMakeFiles/Demo.dir/src/aset.cpp.o CMakeFiles/Demo.dir/src/main.cpp.o CMakeFiles/Demo.dir/src/mcxt.cpp.o  -o Demo 
